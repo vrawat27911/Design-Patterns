@@ -1,6 +1,6 @@
 Types:
 
-Creational - Singleton Factory Abstract Factory Builder Prototype
+Creational - Singleton (lazy and early from Karumanchi) Factory Abstract Factory Builder Prototype
 
 Structural - Adapter Bridge Composite Decorator Facade Flyweight Proxy
 
